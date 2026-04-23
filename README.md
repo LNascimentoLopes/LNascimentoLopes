@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lucas Nascimento! 👋
 
-<!--
-**LNascimentoLopes/LNascimentoLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer in constant learning, focused on creating scalable and secure solutions with the Java ecosystem.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Currently studying Java & Spring Framework.
+- 🌱 Learning about Docker, PostgreSQL, and Spring Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📈 My Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LNascimentoLopes&show_icons=true&theme=radical)
+
+### 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/lucas-nascimento-661b162b1/) | [Email](Lucas.nascimento3224@gmail.com)
