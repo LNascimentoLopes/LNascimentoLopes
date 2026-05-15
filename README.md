@@ -28,7 +28,7 @@ Backend Developer in constant learning, focused on creating scalable and secure 
 ### 📊 Professional Insights
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?LNascimentoLopes=" alt="GitHub Streak" /></a>
 </p>
 
 ---
