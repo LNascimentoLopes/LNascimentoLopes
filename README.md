@@ -25,14 +25,6 @@ Backend Developer in constant learning, focused on creating scalable and secure 
 
 ---
 
-### 📊 Professional Insights
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?LNascimentoLopes=" alt="GitHub Streak" />"
-</p>
-
----
-
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-nascimento-661b162b1/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Lucas.nascimento3224@gmail.com)
