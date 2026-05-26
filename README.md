@@ -8,7 +8,7 @@ Currently expanding into fullstack with Angular.
 ### 🚀 About Me
 
 - 🎓 Studying **Java, Spring Framework & Angular**
-- 🔨 Current Project: [RegiNotes](https://github.com/LNascimentoLopes) — A fullstack note-taking app with Angular 17+, JWT security, containerized, CI/CD with GitHub Actions| Spring Boot, Docker, 
+- 🔨 Current Project: [RegiNotes](https://github.com/LNascimentoLopes/REGINOTES) — A fullstack note-taking app with Angular 17+, JWT security, containerized, CI/CD with GitHub Actions| Spring Boot, Docker, 
 - 💡 Passionate about clean architecture, API security and good software practices
 - 📍 Brazil
 
