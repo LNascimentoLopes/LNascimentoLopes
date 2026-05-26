@@ -47,7 +47,7 @@ Currently expanding into fullstack with Angular.
 
 | Project | Description | Stack |
 |---|---|---|
-| [RegiNotes](https://github.com/LNascimentoLopes) | Fullstack note-taking app with markdown support, JWT auth and pagination | Angular 17, Spring Boot 3, PostgreSQL |
+| [RegiNotes](https://github.com/LNascimentoLopes) | Fullstack note-taking app with markdown support, JWT auth and pagination | Angular 17, Spring Boot 4, PostgreSQL |
 | [Expense Tracker API](https://github.com/LNascimentoLopes/Expense_tracker_API-_Spring) | REST API with JWT security and expense management | Spring Boot, Spring Security |
 
 ---
