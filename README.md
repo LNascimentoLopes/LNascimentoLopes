@@ -56,7 +56,7 @@ Sou um desenvolvedor focado na construção de aplicações escaláveis, seguras
 |---|---|---|
 | **[RegiNotes v2](https://github.com/LNascimentoLopes/REGINOTES_V2)** | Sistema colaborativo de notas em tempo real. Arquitetura voltada para alta performance, utilizando WebSockets para edição simultânea, RabbitMQ para geração assíncrona de PDFs e Redis para cache de alta velocidade. | Java 21, Spring Boot, RabbitMQ, Redis, PostgreSQL, WebSockets |
 | **[Expense Tracker API](https://github.com/LNascimentoLopes/Expense_tracker_API-_Spring)** | API REST segura com tratamento de exceções robusto e gestão financeira. | Spring Boot, Spring Security, JWT |
-| **[RegiNotes](https://github.com/LNascimentoLopes/REGINOTES)** | Fullstack production-ready note-taking app. Features include real-time collaboration, JWT Token Rotation, pagination, and containerized deployment. | Java 21, Spring Boot, Angular 17, PostgreSQL, Docker |
+| **[RegiNotes](https://github.com/LNascimentoLopes/REGINOTES)** | Aplicativo completo (full-stack) para anotações, pronto para produção. Os recursos incluem colaboração em tempo real, rotação de tokens JWT, paginação e implantação conteinerizada. | Java 21, Spring Boot, Angular 17, PostgreSQL, Docker |
 
 ---
 
