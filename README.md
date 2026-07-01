@@ -1,44 +1,50 @@
 # Lucas Nascimento 👋
 
-Backend Developer focused on building scalable and secure APIs with the Java ecosystem.
-Currently expanding into fullstack with Angular.
+**Software Engineer | Backend & Fullstack Developer**
+
+I am a Software Engineer focused on building robust, scalable, and secure applications. I don't just write code; I architect solutions. I specialize in the **Java Ecosystem** with a strong drive toward delivering high-performance backend systems and seamless fullstack integrations.
 
 ---
 
-### 🚀 About Me
+### 🚀 The Value I Bring
 
-- 🎓 Studying **Java, Spring Framework & Angular**
-- 🔨 Current Project: [RegiNotes](https://github.com/LNascimentoLopes/REGINOTES) — A fullstack note-taking app with Angular 17+, JWT security, containerized, CI/CD with GitHub Actions| Spring Boot, Docker, 
-- 💡 Passionate about clean architecture, API security and good software practices
-- 📍 Brazil
+- 🏗️ **Building for Scale:** Architecting RESTful APIs and real-time collaboration features using **WebSockets**.
+- 🔐 **Security First:** Implementing robust stateless authentication (JWT, OAuth2) and secure password hashing with **Bcrypt**.
+- ⚙️ **Advanced Architecture:** Working with asynchronous processing and message brokering using **RabbitMQ**, and optimizing database performance with **Redis** caching.
+- 🚀 **Current Focus:** Expanding my fullstack capabilities with **Angular 17+** and implementing robust observability metrics (**Grafana & Prometheus**) and rigorous unit testing (**JUnit**).
+- 📍 Based in São Paulo, Brazil.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 
-**Backend**
-
+**Backend & Architecture**
 <p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**Database & Migrations**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-%23CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white" />
 </p>
 
 **Frontend**
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-**Tools**
-
+**DevOps, CI/CD & Observability**
 <p align="left">
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 ---
@@ -47,8 +53,8 @@ Currently expanding into fullstack with Angular.
 
 | Project | Description | Stack |
 |---|---|---|
-| [RegiNotes](https://github.com/LNascimentoLopes) | Fullstack note-taking app with markdown support, JWT auth and pagination | Angular 17, Spring Boot 4, PostgreSQL |
-| [Expense Tracker API](https://github.com/LNascimentoLopes/Expense_tracker_API-_Spring) | REST API with JWT security and expense management | Spring Boot, Spring Security |
+| **[RegiNotes](https://github.com/LNascimentoLopes/REGINOTES)** | Fullstack production-ready note-taking app. Features include real-time collaboration, JWT Token Rotation, pagination, and containerized deployment. | Java 21, Spring Boot, Angular 17, PostgreSQL, Docker |
+| **[Expense Tracker API](https://github.com/LNascimentoLopes/Expense_tracker_API-_Spring)** | Secure REST API with robust exception handling and expense management. | Spring Boot, Spring Security, JWT |
 
 ---
 
@@ -64,5 +70,5 @@ Currently expanding into fullstack with Angular.
 
 ### 📫 Connect with me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-nascimento-661b162b1/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Lucas.nascimento3224@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-nascimento-661b162b1/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Lucas.nascimento3224@gmail.com)
