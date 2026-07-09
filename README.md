@@ -64,7 +64,7 @@ Sou um desenvolvedor focado na construção de aplicações escaláveis, seguras
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LNascimentoLopes&theme=tokyo-night)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LNascimentoLopes&bg_color=44475a&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
